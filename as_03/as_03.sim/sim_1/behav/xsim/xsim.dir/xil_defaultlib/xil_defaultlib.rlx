@@ -1,0 +1,8 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/Yijian/dev/ee2026_lab/as_03/as_03.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/Yijian/dev/ee2026_lab/as_03/as_03.srcs/sim_1/new/test_clock.v,1727198894,verilog,,,,test_clock,,,,,,,,
+C:/Users/Yijian/dev/ee2026_lab/as_03/as_03.srcs/sources_1/new/clock_module.v,1726131215,verilog,,C:/Users/Yijian/dev/ee2026_lab/as_03/as_03.srcs/sources_1/new/counter_module.v,,clock_module,,,,,,,,
+C:/Users/Yijian/dev/ee2026_lab/as_03/as_03.srcs/sources_1/new/counter_module.v,1727198710,verilog,,C:/Users/Yijian/dev/ee2026_lab/as_03/as_03.srcs/sim_1/new/test_clock.v,,four_bit_counter_module,,,,,,,,

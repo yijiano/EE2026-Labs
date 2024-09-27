@@ -1,0 +1,8 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/Yijian/dev/ee2026_lab/lab_03/lab_03.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/Yijian/dev/ee2026_lab/lab_03/lab_03.srcs/sim_1/new/test_blinky.v,1726124099,verilog,,,,test_blinky,,,,,,,,
+C:/Users/Yijian/dev/ee2026_lab/lab_03/lab_03.srcs/sources_1/new/blinky_module.v,1726121431,verilog,,C:/Users/Yijian/dev/ee2026_lab/lab_03/lab_03.srcs/sim_1/new/test_blinky.v,,blinky,,,,,,,,
+C:/Users/Yijian/dev/ee2026_lab/lab_03/lab_03.srcs/sources_1/new/slow_blinky_module.v,1726124999,verilog,,C:/Users/Yijian/dev/ee2026_lab/lab_03/lab_03.srcs/sim_1/new/test_blinky.v,,slow_blinky_module,,,,,,,,

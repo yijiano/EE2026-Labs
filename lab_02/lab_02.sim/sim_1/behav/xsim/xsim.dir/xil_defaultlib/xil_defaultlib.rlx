@@ -1,0 +1,9 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/Yijian/dev/ee2026_lab/lab_02/lab_02.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/Yijian/dev/ee2026_lab/lab_02/lab_02.srcs/sim_1/new/testbench.v,1725518708,verilog,,,,testbench,,,,,,,,
+C:/Users/Yijian/dev/ee2026_lab/lab_02/lab_02.srcs/sources_1/new/adder_module.v,1725517538,verilog,,C:/Users/Yijian/dev/ee2026_lab/lab_02/lab_02.srcs/sources_1/new/my_2_bit_adder.v,,my_full_adder,,,,,,,,
+C:/Users/Yijian/dev/ee2026_lab/lab_02/lab_02.srcs/sources_1/new/my_2_bit_adder.v,1725517553,verilog,,C:/Users/Yijian/dev/ee2026_lab/lab_02/lab_02.srcs/sources_1/new/my_4_bit_adder.v,,my_2_bit_adder,,,,,,,,
+C:/Users/Yijian/dev/ee2026_lab/lab_02/lab_02.srcs/sources_1/new/my_4_bit_adder.v,1725518002,verilog,,C:/Users/Yijian/dev/ee2026_lab/lab_02/lab_02.srcs/sim_1/new/testbench.v,,my_4_bit_adder,,,,,,,,
