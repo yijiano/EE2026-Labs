@@ -2,12 +2,12 @@
 # website: https://www.xilinx.com/support/download.html
 
 # [home]
+S1_12_BRIAN CHAN_CAI JIALI_HOE ZHAN_ZHANG YIJIAN_Improvements_Archive.zip
 *.pdf
 *.jou
 *.log
 *.debug
 *.str
-*.zip
 *.tmp
 *.rst
 *.os
